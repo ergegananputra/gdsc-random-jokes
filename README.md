@@ -1,6 +1,13 @@
 # GDSC Random Jokes
 Random jokes with Node.js application from a MySQL database.
 
+Domain:
+localhost/api/](http://localhost:8000/api/
+
+Endpoint:
+- /random
+  localhost/api/](http://localhost:8000/api/jokes
+
 ## Prerequisites
 - Node.js
 - MySQL
